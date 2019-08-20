@@ -1,2 +1,2 @@
 # Login-PHP-MySQL
-![card](https://github.com/AdrielMinyety/Login/blob/master/Login.png)
+![card](https://github.com/AdrielMinyety/Login-PHP-MySQL/blob/master/Login.png)
